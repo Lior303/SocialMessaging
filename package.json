@@ -42,7 +42,7 @@
         "chai-spies": "^1.0.0",
         "sinon": "^7.3.2",
         "cross-env": "^5.2.0",
-        "electron": "^4.0.8",
+        "electron": "^15.5.5",
         "material-design-icons-iconfont": "^3.0.3",
         "mocha": "^6.1.2",
         "vue-cli-plugin-electron-builder": "^1.2.0",
